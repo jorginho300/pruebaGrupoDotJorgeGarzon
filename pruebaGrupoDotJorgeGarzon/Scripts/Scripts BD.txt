@@ -1,0 +1,5 @@
+INSERT INTO 
+SOCIOS (id_socio, nombre_socio, tasa_interes_socio, monto_maximo_socio) VALUES
+(1,'Maria',1.20,3000000),
+(2,'Juan',1.50,5000000),
+(3,'Andres',2.00,7500000);
