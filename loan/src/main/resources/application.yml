@@ -1,0 +1,10 @@
+spring:
+  jpa:    hibernate:      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/Socios
+    username: postgres
+    password: 1221    
